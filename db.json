@@ -1,14 +1,320 @@
+
+
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "musicList": [
+    {
+    "title": "What lovers Do",
+    "artist": "Maroon 5",
+    "runningTime": 10000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "Girs Like You",
+    "artist": "Maroon 5",
+    "runningTime": 10000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "Don't Wanna Know",
+    "artist": "Maroon 5",
+    "runningTime": 20000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "Cold",
+    "artist": "Maroon 5",
+    "runningTime": 30000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "This Love - Live In Manchester/2015",
+    "artist": "Maroon 5",
+    "runningTime": 40000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "Maps - Live In Manchester/2015",
+    "artist": "Maroon 5",
+    "runningTime": 50000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "Moves Like Jagger - Live In Manchester/2015",
+    "artist": "Maroon 5",
+    "runningTime": 45000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "What lovers Do",
+    "artist": "Maroon 5",
+    "runningTime": 60000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "What lovers Do",
+    "artist": "Maroon 5",
+    "runningTime": 10000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "What lovers Do",
+    "artist": "Maroon 5",
+    "runningTime": 10000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "Girs Like You",
+    "artist": "Maroon 5",
+    "runningTime": 10000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "Don't Wanna Know",
+    "artist": "Maroon 5",
+    "runningTime": 20000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "Cold",
+    "artist": "Maroon 5",
+    "runningTime": 30000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "This Love - Live In Manchester/2015",
+    "artist": "Maroon 5",
+    "runningTime": 40000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "Maps - Live In Manchester/2015",
+    "artist": "Maroon 5",
+    "runningTime": 50000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "Moves Like Jagger - Live In Manchester/2015",
+    "artist": "Maroon 5",
+    "runningTime": 45000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "What lovers Do",
+    "artist": "Maroon 5",
+    "runningTime": 60000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "What lovers Do",
+    "artist": "Maroon 5",
+    "runningTime": 10000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "What lovers Do",
+    "artist": "Maroon 5",
+    "runningTime": 10000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "Girs Like You",
+    "artist": "Maroon 5",
+    "runningTime": 10000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "Don't Wanna Know",
+    "artist": "Maroon 5",
+    "runningTime": 20000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "Cold",
+    "artist": "Maroon 5",
+    "runningTime": 30000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "This Love - Live In Manchester/2015",
+    "artist": "Maroon 5",
+    "runningTime": 40000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "Maps - Live In Manchester/2015",
+    "artist": "Maroon 5",
+    "runningTime": 50000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "Moves Like Jagger - Live In Manchester/2015",
+    "artist": "Maroon 5",
+    "runningTime": 45000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "What lovers Do",
+    "artist": "Maroon 5",
+    "runningTime": 60000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "What lovers Do",
+    "artist": "Maroon 5",
+    "runningTime": 10000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "What lovers Do",
+    "artist": "Maroon 5",
+    "runningTime": 10000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "Girs Like You",
+    "artist": "Maroon 5",
+    "runningTime": 10000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "Don't Wanna Know",
+    "artist": "Maroon 5",
+    "runningTime": 20000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "Cold",
+    "artist": "Maroon 5",
+    "runningTime": 30000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "This Love - Live In Manchester/2015",
+    "artist": "Maroon 5",
+    "runningTime": 40000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "Maps - Live In Manchester/2015",
+    "artist": "Maroon 5",
+    "runningTime": 50000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "Moves Like Jagger - Live In Manchester/2015",
+    "artist": "Maroon 5",
+    "runningTime": 45000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "What lovers Do",
+    "artist": "Maroon 5",
+    "runningTime": 60000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "What lovers Do",
+    "artist": "Maroon 5",
+    "runningTime": 10000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },  {
+    "title": "What lovers Do",
+    "artist": "Maroon 5",
+    "runningTime": 10000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "Girs Like You",
+    "artist": "Maroon 5",
+    "runningTime": 10000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "Don't Wanna Know",
+    "artist": "Maroon 5",
+    "runningTime": 20000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "Cold",
+    "artist": "Maroon 5",
+    "runningTime": 30000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "This Love - Live In Manchester/2015",
+    "artist": "Maroon 5",
+    "runningTime": 40000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "Maps - Live In Manchester/2015",
+    "artist": "Maroon 5",
+    "runningTime": 50000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "Moves Like Jagger - Live In Manchester/2015",
+    "artist": "Maroon 5",
+    "runningTime": 45000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "What lovers Do",
+    "artist": "Maroon 5",
+    "runningTime": 60000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    },
+    {
+    "title": "What lovers Do",
+    "artist": "Maroon 5",
+    "runningTime": 10000,
+    "album": "Red Pill Blues (Deluxe Edition)",
+    "genre": "ROCK"
+    }
+  ] 
 }
